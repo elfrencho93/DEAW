@@ -1,0 +1,1 @@
+Escribir un pequeño texto en este README a propósito del repositorio y el módulo para el que se utilizará.
